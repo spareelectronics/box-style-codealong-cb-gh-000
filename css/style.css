@@ -220,6 +220,23 @@ header {
   text-align: center;
 }
 
+#navbar nav {
+  border-left: 1px solid #ccc;
+}
+
+#navbar nav a {
+  display: inline-block;
+  width: 16.66666667%;
+  margin: 0;
+  padding: 22px 0;
+  text-transform: uppercase;
+  color: black;
+  text-align: center;
+  border-right: 1px solid #ccc;
+  text-decoration: none;
+  font: 1em "Trebuchet MS", Arial, sans-serif;
+}
+
 /*////////// LOGO //////////*/
 
 
